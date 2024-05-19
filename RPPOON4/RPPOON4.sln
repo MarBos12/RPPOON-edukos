@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPPOON4", "RPPOON4\RPPOON4.csproj", "{532FC5BF-DC1B-40DA-8555-5A672A17F587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{532FC5BF-DC1B-40DA-8555-5A672A17F587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532FC5BF-DC1B-40DA-8555-5A672A17F587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532FC5BF-DC1B-40DA-8555-5A672A17F587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532FC5BF-DC1B-40DA-8555-5A672A17F587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E40C5B4D-92A5-4651-BA15-3FF6AF2E1DC6}
+	EndGlobalSection
+EndGlobal
