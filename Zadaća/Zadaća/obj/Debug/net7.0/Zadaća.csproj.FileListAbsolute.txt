@@ -1,0 +1,14 @@
+C:\Users\Marko\Desktop\Za visual pomozi\Zadaća\Zadaća\bin\Debug\net7.0\Zadaća.exe
+C:\Users\Marko\Desktop\Za visual pomozi\Zadaća\Zadaća\bin\Debug\net7.0\Zadaća.deps.json
+C:\Users\Marko\Desktop\Za visual pomozi\Zadaća\Zadaća\bin\Debug\net7.0\Zadaća.runtimeconfig.json
+C:\Users\Marko\Desktop\Za visual pomozi\Zadaća\Zadaća\bin\Debug\net7.0\Zadaća.dll
+C:\Users\Marko\Desktop\Za visual pomozi\Zadaća\Zadaća\bin\Debug\net7.0\Zadaća.pdb
+C:\Users\Marko\Desktop\Za visual pomozi\Zadaća\Zadaća\obj\Debug\net7.0\Zadaća.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Za visual pomozi\Zadaća\Zadaća\obj\Debug\net7.0\Zadaća.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Za visual pomozi\Zadaća\Zadaća\obj\Debug\net7.0\Zadaća.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Za visual pomozi\Zadaća\Zadaća\obj\Debug\net7.0\Zadaća.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Za visual pomozi\Zadaća\Zadaća\obj\Debug\net7.0\Zadaća.dll
+C:\Users\Marko\Desktop\Za visual pomozi\Zadaća\Zadaća\obj\Debug\net7.0\refint\Zadaća.dll
+C:\Users\Marko\Desktop\Za visual pomozi\Zadaća\Zadaća\obj\Debug\net7.0\Zadaća.pdb
+C:\Users\Marko\Desktop\Za visual pomozi\Zadaća\Zadaća\obj\Debug\net7.0\Zadaća.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Za visual pomozi\Zadaća\Zadaća\obj\Debug\net7.0\ref\Zadaća.dll
